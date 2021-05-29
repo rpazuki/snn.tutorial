@@ -7,6 +7,9 @@ Welcome to the the SNN Demo repo. Explore the sample code, notebooks for a demon
 
 You can browse the [jupyter](https://jupyter.org/) notebooks (.ipynb extension) and read through, or run them on your local machine. 
 
+. [Notebook 1](notebook.1.fully.obseverd.models.ipynb)
+. [Notebook 2](notebook.2.fully.obseverd.models.cross.feedback.ipynb)
+
 __To run them locally you need to do the followings:__
 
 1. Check the dependecnies and install the required packages.
